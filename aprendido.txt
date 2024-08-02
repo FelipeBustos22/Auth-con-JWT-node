@@ -1,0 +1,11 @@
+. Empezamos iniciando el proyecto con un npm init -y
+. Seguimos instalando express con npm install express
+. Instalamos npm install db-local para la base de datos
+. Instalamos npm install bcrypt para hashear las constraseñas
+. npm install ejs
+. npm install jsonwebtoken
+. npm install cookie-parser
+. Tambien le indicamos que sera de type module y NO commonjs (es para usar el 'import' en vez del require)
+. podemos usar flaak como alternativa de postman
+
+luego es estos pasos pasamos con el codigo. 
