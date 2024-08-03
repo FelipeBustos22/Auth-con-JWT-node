@@ -20,6 +20,6 @@ Este proyecto demuestra cómo se puede implementar la autenticación de usuario 
 Para clonar este repositorio, utiliza el siguiente comando:
 
 ```bash
-git clone https://github.com/FelipeBustos22/rest-API-midu.git
+git clone https://github.com/FelipeBustos22/Auth-con-JWT-node.git
 
 
