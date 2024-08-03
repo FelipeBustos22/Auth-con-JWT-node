@@ -15,4 +15,11 @@ Este proyecto implementa la autenticación de usuario en un servidor Express uti
 
 Este proyecto demuestra cómo se puede implementar la autenticación de usuario en una aplicación Node.js utilizando un servidor Express. La autenticación se maneja mediante JSON Web Tokens (JWT) y las contraseñas se encriptan utilizando bcrypt. La información de la sesión se almacena en cookies gracias a cookie-parser, en lugar de utilizar localStorage por razones de seguridad.
 
+## Clonación del Repositorio
+
+Para clonar este repositorio, utiliza el siguiente comando:
+
+```bash
+git clone https://github.com/FelipeBustos22/rest-API-midu.git
+
 
